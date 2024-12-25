@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that illustrates a common error involving data area mismatches. The program demonstrates moving data between two areas with potentially different lengths, which can lead to unexpected results or runtime errors. The bugSolution.cob file provides a corrected version of the code that handles data area lengths appropriately.
